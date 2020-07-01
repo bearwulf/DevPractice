@@ -1,6 +1,6 @@
 #inlcude<stdio.h>
 int main()
 {
-printf("Hello World");
+printf("Hellos World");
 return 0;
 }
