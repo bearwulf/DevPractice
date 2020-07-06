@@ -189,7 +189,7 @@ print(new_name[9])
 print("new_name[0:3", new_name[0:3])
 print("new_name[0:4]0", new_name[0:7])
 #this is known as a range slice
-print(course[4:12], course[4:12])
+print("course[4:12]", course[4:12])
 
 #Concatination
 total = new_name + course
